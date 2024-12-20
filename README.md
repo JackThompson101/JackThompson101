@@ -24,8 +24,6 @@ https://www.cc-sw.com/set-top-box-re-6-part-series-4-of-6/ </br>
 https://www.cc-sw.com/set-top-box-re-6-part-series-5-of-6/ </br>
 https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/ </br>
 
-
-
 ## Skills
 **General:** Reverse Engineering, Exploit Development, Network Analysis </br>
 **Programming Languages:** Python, C, Java, Assembly, SQL, Bash, Javascript </br>

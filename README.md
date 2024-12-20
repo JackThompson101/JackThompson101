@@ -12,7 +12,14 @@ I am a student with a strong interest in vulnerability research and cybersecurit
 ## 🛠️ Projects
 
 ### Set-Top Box Vulnerability Research 
-Blog: [https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/](url)
+Blog: </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/](url) </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-2-of-6/](url) </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-3-of-6/](url) </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-4-of-6/](url) </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-5-of-6/](url) </br>
+[https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/](url) </br>
+
 
 
 ## 💼 Skills

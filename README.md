@@ -1,7 +1,6 @@
-Jack Thompson 👋
-<!-- Optional: Add a high-quality banner image -->
+# Jack Thompson
 
-🛡️ About Me
+# 🛡️ About Me
 I am a Vulnerability Researcher with a strong focus on identifying, analyzing, and mitigating security vulnerabilities in software and systems. With extensive experience in penetration testing, vulnerability assessment, and the development of security tools, I am dedicated to enhancing digital security and resilience.
 
 Current Role: [Your Current Position] at [Your Company/Organization]

@@ -1,4 +1,4 @@
-# Hi, I'm Jack Thompson
+# Hi, I'm Jack
 
 ## About Me
 I am a student with a strong interest in vulnerability research and cybersecurity. I enjoy exploring security vulnerabilities, learning about penetration testing, and developing tools to enhance digital security. I'm eager to collaborate on projects that challenge my skills and contribute to the cybersecurity community.

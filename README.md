@@ -27,9 +27,9 @@ During my time at Caeser Creek Software my partner and I:
 
 
 ## 💼 Skills
-General: Reverse Engineering, Exploit Development, Network Analysis </br>
-Programming Languages: Python, C, Java, Assembly, SQL, Bash, Javascript </br>
-Security Tools: Wireshark, Nmap, Ghidra, Frida, EMBA </br>
+**General:** Reverse Engineering, Exploit Development, Network Analysis </br>
+**Programming Languages:** Python, C, Java, Assembly, SQL, Bash, Javascript </br>
+**Security Tools:** Wireshark, Nmap, Ghidra, Frida, EMBA </br>
 
 ## 🎯 Current Goals
 - Complete my IQP on stock market modeling

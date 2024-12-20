@@ -5,7 +5,7 @@ I am a student with a strong interest in vulnerability research and cybersecurit
 
 📚 **Currently Studying:** BS Computer Science at Worcester Polytechnic Institute </br>
 🔭 **Exploring:** Vulnerability Assessment, Penetration Testing, Exploit Development </br>
-🌱 **Learning: **Solidity </br>
+🌱 **Learning:** Solidity </br>
 📫 **Contact:** jjthompson@wpi.edu </br>
 
 

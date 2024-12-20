@@ -19,3 +19,8 @@ Blog: [https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/](url)
 General: Reverse Engineering, Exploit Development, Network Analysis </br>
 Programming Languages: Python, C, Java, Assembly, SQL, Bash, Javascript </br>
 Security Tools: Wireshark, Nmap, Ghidra, Frida, EMBA </br>
+
+## 🎯 Current Goals
+- Complete my IQP on stock market modeling
+- Launch my first app
+- Contribute to open source projects

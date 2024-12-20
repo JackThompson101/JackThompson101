@@ -3,10 +3,10 @@
 ## 🛡️ About Me
 I am a student with a strong interest in vulnerability research and cybersecurity. I enjoy exploring security vulnerabilities, learning about penetration testing, and developing tools to enhance digital security. I'm eager to collaborate on projects that challenge my skills and contribute to the cybersecurity community.
 
-📚 Currently Studying: BS Computer Science at Worcester Polytechnic Institute </br>
-🔭 Exploring: Vulnerability Assessment, Penetration Testing, Exploit Development </br>
-🌱 Learning: Solidity </br>
-📫 Contact: jjthompson@wpi.edu </br>
+📚 **Currently Studying:** BS Computer Science at Worcester Polytechnic Institute </br>
+🔭 **Exploring:** Vulnerability Assessment, Penetration Testing, Exploit Development </br>
+🌱 **Learning: **Solidity </br>
+📫 **Contact:** jjthompson@wpi.edu </br>
 
 
 ## 🛠️ Projects

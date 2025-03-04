@@ -1,10 +1,5 @@
-## About Me
-I am a student with a strong interest in vulnerability research and cybersecurity. I enjoy exploring security vulnerabilities, learning about penetration testing, and developing tools to enhance digital security. I'm eager to collaborate on projects that challenge my skills and contribute to the cybersecurity community.
-
-**Currently Studying:** BS Computer Science at Worcester Polytechnic Institute </br>
-**Exploring:** Vulnerability Assessment, Penetration Testing, Exploit Development </br>
-**Learning:** Solidity </br>
-**Contact:** jjthompson@wpi.edu </br>
+## Contact
+<p>jjthompson@wpi.edu</p>
 
 
 ## Projects
@@ -14,6 +9,7 @@ During my time at Caeser Creek Software I:
 - Identified and analyzed pre-installed malware and backdoors.
 - Exploited a hardware vulnerability through the microSD card port to enable JTAG, reverse shell, and UART access.
 - Developed a flexible JTAG replay solution using a Raspberry Pi Pico and custom PCB, achieving persistent reverse shell access across multiple embedded devices.
+  
 #### Blog: 
 https://www.cc-sw.com/set-top-box-re-6-part-series-1-of-6/ </br>
 https://www.cc-sw.com/set-top-box-re-6-part-series-2-of-6/ </br>

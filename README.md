@@ -1,6 +1,4 @@
-## Contact
-<p>jjthompson@wpi.edu</p>
-
+# Jack Thompson
 
 ## Projects
 
@@ -27,3 +25,7 @@ https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/ </br>
 - Complete my IQP on stock market modeling
 - Launch my first app
 - Contribute to open source projects
+
+## Contact
+<p>jjthompson@wpi.edu</p>
+

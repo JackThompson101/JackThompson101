@@ -10,7 +10,7 @@ I am a student with a strong interest in vulnerability research and cybersecurit
 ## Projects
 
 ### Set-Top Box Vulnerability Research 
-During my time at Caeser Creek Software my partner and I:
+During my time at Caeser Creek Software I:
 - Identified and analyzed pre-installed malware and backdoors.
 - Exploited a hardware vulnerability through the microSD card port to enable JTAG, reverse shell, and UART access.
 - Developed a flexible JTAG replay solution using a Raspberry Pi Pico and custom PCB, achieving persistent reverse shell access across multiple embedded devices.

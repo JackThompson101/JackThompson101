@@ -18,7 +18,7 @@ https://www.cc-sw.com/set-top-box-re-6-part-series-6-of-6/ </br>
 
 ## Skills
 **General:** Reverse Engineering, Exploit Development, Network Analysis </br>
-**Programming Languages:** Python, C, Java, Assembly, SQL, Bash, Javascript </br>
+**Programming Languages:** Python, C, Java, Assembly, SQL, Bash, Typescript </br>
 **Security Tools:** Wireshark, Nmap, Ghidra, Frida, EMBA </br>
 
 ## Current Goals

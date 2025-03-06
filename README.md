@@ -2,7 +2,7 @@
 
 ## Projects
 ### Blog
-Check out some of my writeups on my blog
+Check out some of my writeups on my blog </br>
 https://jackthompson101.github.io
 
 ### Set-Top Box Vulnerability Research 

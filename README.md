@@ -1,6 +1,9 @@
 # Jack Thompson
 
 ## Projects
+### Blog
+Check out some of my writeups on my blog
+https://jackthompson101.github.io
 
 ### Set-Top Box Vulnerability Research 
 During my time at Caeser Creek Software I:

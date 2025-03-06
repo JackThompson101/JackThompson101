@@ -1,7 +1,7 @@
 # Jack Thompson
 
 ## Projects
-### Blog
+### Personal Blog
 Check out some of my writeups on my blog </br>
 https://jackthompson101.github.io
 
